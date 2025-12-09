@@ -41,16 +41,9 @@ For each PDF, the system extracts fields such as:
 
 The results are displayed as a table and can be downloaded as CSV.
 
-![Result Table](assets/demo_results.png)
+![Result Table](assets/demo_result.png)
 
----
 
-### 4️⃣ Download as CSV
-One click exports all extracted features for downstream analysis.
-
-![CSV Download](assets/demo_download.png)
-
----
 
 ## 🧠 Extracted Clinical Fields
 
